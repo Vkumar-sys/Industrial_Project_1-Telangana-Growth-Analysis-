@@ -71,4 +71,6 @@ I am grateful for the opportunity to learn,grow and connect with fellow particip
 codebasics #codebasics #codebasicsresumeprojectchallenge #powerbi #dataanalytics #ResumeProjectChallenge #LearningAndGrowing #CareerAdvancement.
 
 ✔✔✔Credits:-
+>Open Data Telangana:-The portal will be the central repository of all the datasets of Government of Telangana that should be in the public domain.The datasets provided to us are accessed from this portal only.
+>Link of the Portal:-https://data.telangana.gov.in/
 
