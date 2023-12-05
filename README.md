@@ -54,7 +54,8 @@ For further details, visit: https://ipass.telangana.gov.in/
 
  >Diversification of Industries:- Analyzing the Ts-iPASS applications can reveal the sectors that are attracting  investments.
 
- >Digital Transformation:-The increasing use of digital platforms for document registration and etamp issuances not only enhances revenue collection efficiency but also highlight the importance of digital transformation.
+ >Digital Transformation:-The increasing use of digital platforms for document registration and estamp issuances not 
+  only enhances revenue collection efficiency but also highlight the importance of digital transformation.
 
 👀Key_Recommendations:-
 
