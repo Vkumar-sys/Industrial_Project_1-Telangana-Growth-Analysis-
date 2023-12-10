@@ -5,8 +5,11 @@
 👀Objective:-
 
 • Explore Stamp Registration, Transportation and Ts-Ipass Datasets. Understand their attributes, categories and time period.
+
 • Analyze trends and patterns within each department.
+
 • Identify growth opportunities and areas needing attention.
+
 • Find correlation among these departments and report the overall growth of the state through insights and relevant visuals such as shape maps.
 
 👀Introduction:-
@@ -23,6 +26,7 @@ As a Data analyst, my role was to analyze the data and extract meaningful insigh
 >>dim_date.csv:-This table contains the dates at the monthly level. Please be aware that the fiscal year of Telangana spans from April to March.
 
 >>fact_stamps.csv:-The table provides data on the revenue generated from document registrations and estamp challan payments aggregated at the district and monthly level.
+
 >>fact_transport.csv:-
 The table provides information about the individual vehicle sales data from the RTA(Regional Transport Authority) of the state of Telangana categorized by fuel type,
 vehicle class, seating capacity, and other general categories aggregated at the district and monthly level.
