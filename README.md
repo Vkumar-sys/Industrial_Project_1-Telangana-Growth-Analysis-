@@ -34,7 +34,8 @@ vehicle class, seating capacity, and other general categories aggregated at the 
 >>fact_TS_iPASS.csv:-The TS-iPASS dataset in Telangana comprises data concerning units or businesses established within the state under the "Industrial Project Approval and Self-Certification System" (iPASS). This government initiative aims to foster industrial growth and investment by streamlining project approvals and enabling self-certification for businesses.
 For further details, visit: https://ipass.telangana.gov.in/
 
-👀Approach> I utilize Sql server for conducting various queries, Power-Bi for data visualisation and powerpoint for engaging video presentation. with these tools I discovered key insights and recommendations to derive future actions.
+👀Approach> I utilize Sql server for conducting various queries, Power-Bi for data visualisation and powerpoint for engaging presentation with these tools I discovered key insights and recommendations to derive future actions 
+by the stakeholders.
 
 👀Key findings:-
  ↪ The count of e-Stamp challans registration is comparitavely more than the document registration count. 
