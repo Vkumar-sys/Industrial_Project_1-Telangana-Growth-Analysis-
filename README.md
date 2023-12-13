@@ -10,11 +10,13 @@
 
 ✔ Identify growth opportunities and areas needing attention.
 
-✔ Find correlation among these departments and report the overall growth of the state through insights and relevant visuals such as shape maps.
+✔ Find correlation among these departments and report the overall growth of the state through insights and relevant 
+   visuals such as shape maps in the context of the above dataset.
 
 ✔ Introduction:-
 
-I have worked on a project as a Data Analyst. My task was to analyse Telangana Growth among different sectors quantitatively and providing useful insights to the Telangana government.
+ I have worked on this project as a Data Analyst. My task was to analyse Telangana Growth among different sectors 
+ quantitatively and providing useful insights to the Telangana government through their open source public data.
 
 ✔ Task:-
 
@@ -69,20 +71,25 @@ vehicle class, seating capacity, and other general categories aggregated at the 
 
 ✔ Key_Recommendations:-
  ✔ Strengthen Regulatory Framework
+ 
  ✔ Sustainable Urban Plannings
+ 
  ✔ Data-Driven decision makings
+ 
  ✔ Promote innovation ecosystems
+ 
  ✔ Environmental responsibility
 
-✔ Conclusions:-The current Gov. in Telangana has implemented several significant policies and initiatives to boost economic growth, investment and employment in various sectors.
+✔ Conclusions:-The current Gov. in Telangana has implemented several significant policies and initiatives to boost 
+  economic growth, investment and employment in various sectors.
 
 ✔ Acknowledgements:-
-A very sincere and humble thanks to entire codebasics team for providing such a good challenge as part of their resume project challenge 7 where we get to understand the thorough life cycle of a data analytics project and the key steps involved at each level and enhancing the domain knowledge in the context of State government policies and initiatives
-with respect to their avilable open source data and provide key insights and recommendations to the stakeholders.
+A very sincere and humble thanks to entire codebasics team for providing such a good challenge as part of their resume project challenge 7 where we get to understand the thorough life cycle of a data analytics project and the key steps involved at each level and enhancing the domain knowledge in the context of State government policies and initiatives with respect to their avilable open source data and provide key insights and recommendations to the stakeholders.
 
 
 ✔✔✔Credits:-
 ✔Open Data Telangana:-The portal will be the central repository of all the datasets of Government of Telangana that should be in the public domain.The datasets provided to us are accessed from this portal only.
+
 ✔ Link of the Portal:-https://data.telangana.gov.in/
 
 # Codebasics Team # Resume Project Challenge # Data Analytics #Business Analytics
