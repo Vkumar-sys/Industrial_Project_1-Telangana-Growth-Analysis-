@@ -75,7 +75,20 @@ vehicle class, seating capacity, and other general categories aggregated at the 
    Non-Transport category with maximum sales in Transport category.
 
 ✔ Ts-iPass:-
-✔  
+✔  Total investment stands around 2.58 billion.
+
+✔  Plastic and Rubber,Pharmaceuticals and chemicals,Real Estate Industry tools and IT buidings,Solar and Other
+    Renewable energy materials,Engineering are the top 5 sectors having the most investment.
+    
+✔  Rangareddy,Sangareddy,Medchal_Malkajgiri are the top 3 districts having the most investments.
+
+✔  Engineering,Pharmaceuticals and Chemicals,Plastic and Rubber are the industries that have shown substantial 
+   investment in multiple districts so it indicates that there is heavy business in these sectors that is
+   operating in multiple districts.
+
+✔ Key reasons for most investments in top 3 districts are Government policies and incentives,connectivity
+  and logistics and geographical location that contributes to these factors.
+
 
 ✔ Insights:-
 
