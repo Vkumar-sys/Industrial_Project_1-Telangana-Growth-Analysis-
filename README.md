@@ -47,8 +47,35 @@ vehicle class, seating capacity, and other general categories aggregated at the 
 
 ✔ Key findings:-
 
-✔ 
- 
+✔ Stamp_Registration_Analysis:-
+✔ Total Registered Documents revenue is 295 billion and total e-stamp revenue is 221 billion.
+✔ Rangareddy,Medchal_Malkajgiri,Hyderabad,Sangareddy,Hanumakonda are the top 5 districts with the most document 
+   registration revenue.
+   
+✔ Rangareddy,Hyderabad,Hanumakonda,Yadavri Bhuvanagiri and Khamman are the districts in Telanagana having more E-stamp
+   revenue as compared to the Document Registration Revenue.
+   
+✔ E-Stamp challans was introduced in the year 2020 after the implementation of e-stamps,there came a bit decrement in   the number of document registrations in FY2021 AND FY2022 so this metric depicts an alteration in the count pattern.
+
+✔ Transportation_Segment:-
+✔ We have different categories of vehicles as per the fuel type we have Petrol,Electric,Diesel and others so in this 
+  category we have the maximum sales related to the petrol based vehicles.
+  
+✔ The Vehicle indistry has seen some definite seasonel trends with peak demands occuring in June and October and
+   November and lowest sales in April and May.In Telangana vehicle dealers often experience difficulty selling 
+   inventory during the summer months when consumers are less motivated to make a vehicle purchase.
+   
+✔ With respect to a specific vehicle preference i.e Motorcycles Hyderabad,Medchal_Makajgiri and Rangareddy
+  are the 3 districts having the most sales with respect to Motorcycles.
+  
+✔ With respect to the distribution of sales by seat capacity 1_to_3 seater segment has got the most sales
+   then 4_to_6 seater and 6_seater_above.
+   
+✔ Distribution of sales by transport category so we have two categories here Transport and
+   Non-Transport category with maximum sales in Transport category.
+
+✔ Ts-iPass:-
+✔  
 
 ✔ Insights:-
 
