@@ -83,11 +83,15 @@ vehicle class, seating capacity, and other general categories aggregated at the 
 ✔  Rangareddy,Sangareddy,Medchal_Malkajgiri are the top 3 districts having the most investments.
 
 ✔  Engineering,Pharmaceuticals and Chemicals,Plastic and Rubber are the industries that have shown substantial 
-   investment in multiple districts so it indicates that there is heavy business in these sectors that is
-   operating in multiple districts.
+    investment in multiple districts so it indicates that there is heavy business in these sectors that is
+    operating in multiple districts.
 
-✔ Key reasons for most investments in top 3 districts are Government policies and incentives,connectivity
-  and logistics and geographical location that contributes to these factors.
+✔   In context of FY2021-2022 we can see a clear correlation between vehicle sales,e-stamp revenue
+    and total investments so as the vehicle sales increases e-stamp revenue incraeses and total investment 
+    is also more in this context.
+
+✔  Key reasons for most investments in top 3 districts are Government policies and incentives,connectivity
+   and logistics and geographical location that contributes to these factors.
 
 
 ✔ Insights:-
